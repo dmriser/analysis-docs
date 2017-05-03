@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.31)  21 FEB 2017 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.31)  3 MAY 2017 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **doc.latex
-(/Users/dmriser/Documents/latex/template/doc.latex
+(/Users/dmriser/Work/analysis-docs/kaonId/doc.latex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/Users/dmriser/Documents/latex/template/mystyle.sty
+(/Users/dmriser/Work/analysis-docs/kaonId/mystyle.sty
 Package: mystyle 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1404,9 +1404,12 @@ File: english.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
 \@quotelevel=\count316
 \@quotereset=\count317
 
-(/Users/dmriser/Documents/latex/template/doc.aux
-(/Users/dmriser/Documents/latex/template/firstLast/title.aux)
-(/Users/dmriser/Documents/latex/template/chapters/chapter1.aux))
+(/Users/dmriser/Work/analysis-docs/kaonId/doc.aux
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/title.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/abstract.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter1.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter2.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter3.aux))
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1430,7 +1433,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'doc.bbl' found.
 
-(/Users/dmriser/Documents/latex/template/doc.bbl)
+(/Users/dmriser/Work/analysis-docs/kaonId/doc.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 
@@ -1504,49 +1507,152 @@ e
 \openout2 = `firstLast/title.aux'.
 
 
-(/Users/dmriser/Documents/latex/template/firstLast/title.tex)
-(/Users/dmriser/Documents/latex/template/doc.toc)
-\tf@toc=\write5
-\openout5 = `doc.toc'.
-
- [1
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/title.tex) [1
 
 
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `firstLast/abstract.aux'.
+
+
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/abstract.tex) [2
+
+]
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/dmriser/Documents/latex/template/chapters/chapter1.tex) [2
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter1.tex) [3
+
 
 ]
+\openout2 = `chapters/chapter2.aux'.
 
-LaTeX Warning: Empty bibliography on input line 12.
 
-(/Users/dmriser/Documents/latex/template/doc.aux
-(/Users/dmriser/Documents/latex/template/firstLast/title.aux)
-(/Users/dmriser/Documents/latex/template/chapters/chapter1.aux))
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter2.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+
+<image/kp/BetaPNoCutsSector1.png, id=23, 798.985pt x 473.77pt>
+File: image/kp/BetaPNoCutsSector1.png Graphic file (type png)
+
+<use image/kp/BetaPNoCutsSector1.png>
+Package pdftex.def Info: image/kp/BetaPNoCutsSector1.png used on input line 14.
+
+(pdftex.def)             Requested size: 284.52756pt x 168.71364pt.
+
+<image/km/BetaPNoCutsSector1.png, id=24, 798.985pt x 473.77pt>
+File: image/km/BetaPNoCutsSector1.png Graphic file (type png)
+
+<use image/km/BetaPNoCutsSector1.png>
+Package pdftex.def Info: image/km/BetaPNoCutsSector1.png used on input line 21.
+
+(pdftex.def)             Requested size: 284.52756pt x 168.71364pt.
+
+<image/kp/BetaPDVzCutSector1.png, id=25, 798.985pt x 473.77pt>
+File: image/kp/BetaPDVzCutSector1.png Graphic file (type png)
+
+<use image/kp/BetaPDVzCutSector1.png>
+Package pdftex.def Info: image/kp/BetaPDVzCutSector1.png used on input line 28.
+
+(pdftex.def)             Requested size: 284.52756pt x 168.71364pt.
+
+<image/kp/kp_dvz_sector1.png, id=26, 798.985pt x 473.77pt>
+File: image/kp/kp_dvz_sector1.png Graphic file (type png)
+
+<use image/kp/kp_dvz_sector1.png>
+Package pdftex.def Info: image/kp/kp_dvz_sector1.png used on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 168.71364pt.
+
+<image/km/BetaPDVzCutSector1.png, id=27, 798.985pt x 473.77pt>
+File: image/km/BetaPDVzCutSector1.png Graphic file (type png)
+
+<use image/km/BetaPDVzCutSector1.png>
+Package pdftex.def Info: image/km/BetaPDVzCutSector1.png used on input line 42.
+
+(pdftex.def)             Requested size: 284.52756pt x 168.71364pt.
+
+<image/kp/DCR1Sector3.png, id=28, 1200.485pt x 975.645pt>
+File: image/kp/DCR1Sector3.png Graphic file (type png)
+
+<use image/kp/DCR1Sector3.png>
+Package pdftex.def Info: image/kp/DCR1Sector3.png used on input line 49.
+(pdftex.def)             Requested size: 284.52756pt x 231.22682pt.
+) [4
+
+
+ </Users/dmriser/Work/analysis-docs/kaonId/image/kp/BetaPNoCutsSector1.png> </U
+sers/dmriser/Work/analysis-docs/kaonId/image/km/BetaPNoCutsSector1.png>] [5 </U
+sers/dmriser/Work/analysis-docs/kaonId/image/kp/BetaPDVzCutSector1.png> </Users
+/dmriser/Work/analysis-docs/kaonId/image/kp/kp_dvz_sector1.png> </Users/dmriser
+/Work/analysis-docs/kaonId/image/km/BetaPDVzCutSector1.png>] [6 </Users/dmriser
+/Work/analysis-docs/kaonId/image/kp/DCR1Sector3.png>]
+\openout2 = `chapters/chapter3.aux'.
+
+ (/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+<image/km/TofMassSector1.png, id=38, 1200.485pt x 975.645pt>
+File: image/km/TofMassSector1.png Graphic file (type png)
+
+<use image/km/TofMassSector1.png>
+Package pdftex.def Info: image/km/TofMassSector1.png used on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 231.22682pt.
+) [7
+
+
+] [8 </Users/dmriser/Work/analysis-docs/kaonId/image/km/TofMassSector1.png>]
+
+LaTeX Warning: Empty bibliography on input line 14.
+
+(/Users/dmriser/Work/analysis-docs/kaonId/doc.aux
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/title.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/firstLast/abstract.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter1.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter2.aux)
+(/Users/dmriser/Work/analysis-docs/kaonId/chapters/chapter3.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16274 strings out of 493013
- 297594 string characters out of 6133342
- 696937 words of memory out of 5000000
- 19688 multiletter control sequences out of 15000+600000
- 8262 words of font info for 30 fonts, out of 8000000 for 9000
+ 16354 strings out of 493013
+ 300170 string characters out of 6133342
+ 709463 words of memory out of 5000000
+ 19739 multiletter control sequences out of 15000+600000
+ 9322 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,10n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on doc.pdf (2 pages, 55128 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on doc.pdf (8 pages, 334807 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,9 +5,11 @@
 \begin{document}
 	\include{firstLast/title}
 	\maketitle
-	\tableofcontents
 
+	\include{firstLast/abstract}
 	\include{chapters/chapter1}
+	\include{chapters/chapter2}
+	\include{chapters/chapter3}			
 	
 	\printbibliography
 

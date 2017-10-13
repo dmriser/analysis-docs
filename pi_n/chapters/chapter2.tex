@@ -1,3 +1,41 @@
 \section{Experiment}
 
 This section will briefly state facts about the CLAS detector as well as CEBAF.  It will then discuss electron and pion identification.
+
+% -------- section structure ----------
+%    (a) description of jlab facility, cebaf, overview of the entire process 
+%    (b) description of beam, helicity and energy 
+%    (c) description of target used 
+%    (d) description of detector systems 
+%    (e) electron identification 
+% ------------------------------------
+
+% general description of jlab, cebaf, and the experiment
+This measurement was conducted at Jefferson Lab in Newport News, Virginia.  Jefferson Lab houses the Continuous Electron Beam Accelerator Facility (CEBAF), as well as 4 experimental halls.  The current measurement was taken with the CEBAF Large Acceptance Spectrometer (CLAS) in Hall-B.  
+
+% description of the beam properties (helicity and energy)
+The CEBAF injector provides a few hundered (get the number and put it here) MeV electrons, where a high voltage Pockels cell is used to switch the polarization of the electrons at a rate of 33 Hz.  Electrons are then accelerated via several passes through 2 parallel linear accelerators, before being delivered to Hall-B.  For this experimental run (E1-f) the beam energy was 5.5 GeV.  The beam polarization was monitored with a Moller polarimeter, and the average value was found to be $\lambda_e= (75 \pm 3) \%$.  The electron beam was incident on a liquid hydrogen target, 5 centimeters in length.  The vast majority of electrons don't interact, and deposit their charge on the Faraday Cup.  Those electrons that are scattered between angles of (put acceptance range here) are collected by the CLAS detector for analysis.  
+
+% discussion of the detector systems and clas 
+The CLAS detector is composed of several sub-systems that are used together to infer the four momenta of particles that scatter out of the target.  A central magnet provides a toroidal magnetic field used to separate charged particles and measure momentum, and divides the spectrometer azimuthally (in the x-y plane if z is taken to be the direction of the beam) into 6 identically constructed sectors.  Each sector contains 4 major sub-systems: 
+
+\begin{itemize}
+	\item Drift Chambers - Used to detect tracks from charged particles and measure the particle momentum.  Also responsible for most of the trajectory tracking of the particles.
+	\item Cherenkov Counter - Used to separate electrons from negative hadrons.
+	\item Electromagnetic Calorimeter - Records the energy deposited by charged and neutral particles, resposible for tracking photons/neutrons.
+	\item Time of Flight Scintillators - A high resolution timing system that is used to calculate the velocity of particles.  The time of flight system is the primary means used to separate different hadrons.  
+\end{itemize}
+
+% electron identification 
+Electrons are selected for analysis from the candidate tracks by using a cuts based classification algorithm.  The dominant background for electron candidates are negative pions.  All negative tracks are considered as possible electrons.  These candidate electrons are first subject to geometric cuts.  
+\\
+As particles traverse the EC they create an electromagnetic shower, which is not confined within the detector when the particles pass close to the extremes of the detector strips.  This mechanism leads to an underestimation of particle energy in the reconstruction phase, for that reason these tracks are discarded.  Similarly, the detector efficiency is poorly understood at the extreme edges of the drift chambers, and tracks through these areas are also rejected.  
+\\
+The fractional energy deposition with respect to the particle momentum is quite constant as a function of momentum for electrons, but inversely depends on the momentum of negative pions.  This property is exploited by placing a momentum dependent cut on the ratio $E_{dep}(p)/p$ for all negative candidate tracks.  The ratio $E_{dep}/p$ is calculated in 60 momentum bins from 0.5 to 2.5 GeV/c.  The electron signal is then fit with a Gaussian function, and the mean $\mu_i$ and standard deviations $\sigma_i$ are recorded for each momentum bin (above labeled i).  These distributions are then fit with a 3rd order polynomial and can be used to create decision boundaries for rejecting tracks from the candidate electron sample.  
+\\
+
+        
+
+
+
+

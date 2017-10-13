@@ -1,0 +1,23 @@
+\documentclass{article}
+
+% hold styling options as well as commands
+\usepackage{mystyle}
+
+\begin{document}
+
+	% title page 
+	\include{firstLast/title}
+	\maketitle
+	\tableofcontents
+
+	% main content of the document 
+	\include{chapters/chapter1}
+	\include{chapters/chapter2}
+	\include{chapters/chapter3}
+	\include{chapters/chapter4}
+	\include{chapters/chapter5}
+	
+	% bib
+	\printbibliography
+
+\end{document}

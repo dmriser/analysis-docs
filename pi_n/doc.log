@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 OCT 2017 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 OCT 2017 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **doc.latex
-(/Users/davidriser/Repos/analysis-docs/template/doc.latex
+(/Users/davidriser/Dropbox/Writings/pi_n/doc.latex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/Users/davidriser/Repos/analysis-docs/template/mystyle.sty
+(/Users/davidriser/Dropbox/Writings/pi_n/mystyle.sty
 Package: mystyle 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1394,23 +1394,27 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count330
 \@quotereset=\count331
 
-(/Users/davidriser/Repos/analysis-docs/template/doc.aux
-(/Users/davidriser/Repos/analysis-docs/template/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/template/chapters/chapter1.aux))
+(/Users/davidriser/Dropbox/Writings/pi_n/doc.aux
+(/Users/davidriser/Dropbox/Writings/pi_n/firstLast/title.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter1.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter2.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter3.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter4.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter5.aux))
 \openout1 = `doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -1420,9 +1424,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'doc.bbl' found.
 
-(/Users/davidriser/Repos/analysis-docs/template/doc.bbl)
-Package biblatex Info: Reference section=0 on input line 5.
-Package biblatex Info: Reference segment=0 on input line 5.
+(/Users/davidriser/Dropbox/Writings/pi_n/doc.bbl)
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1494,8 +1498,8 @@ e
 \openout2 = `firstLast/title.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/template/firstLast/title.tex)
-(/Users/davidriser/Repos/analysis-docs/template/doc.toc)
+(/Users/davidriser/Dropbox/Writings/pi_n/firstLast/title.tex)
+(/Users/davidriser/Dropbox/Writings/pi_n/doc.toc)
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
@@ -1507,36 +1511,71 @@ e
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/template/chapters/chapter1.tex) [2
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter1.tex) [2
+
+]
+\openout2 = `chapters/chapter2.aux'.
+
+
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter2.tex) [3
+
+
+]
+\openout2 = `chapters/chapter3.aux'.
+
+
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter3.tex) [4
+
+
+]
+\openout2 = `chapters/chapter4.aux'.
+
+
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter4.tex) [5
+
+
+]
+\openout2 = `chapters/chapter5.aux'.
+
+
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter5.tex) [6
+
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 12.
+LaTeX Warning: Empty bibliography on input line 21.
 
-(/Users/davidriser/Repos/analysis-docs/template/doc.aux
-(/Users/davidriser/Repos/analysis-docs/template/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/template/chapters/chapter1.aux))
+(/Users/davidriser/Dropbox/Writings/pi_n/doc.aux
+(/Users/davidriser/Dropbox/Writings/pi_n/firstLast/title.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter1.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter2.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter3.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter4.aux)
+(/Users/davidriser/Dropbox/Writings/pi_n/chapters/chapter5.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16835 strings out of 492995
- 307043 string characters out of 6132704
- 710958 words of memory out of 5000000
- 20258 multiletter control sequences out of 15000+600000
- 8262 words of font info for 30 fonts, out of 8000000 for 9000
+ 16872 strings out of 492995
+ 308512 string characters out of 6132704
+ 720712 words of memory out of 5000000
+ 20267 multiletter control sequences out of 15000+600000
+ 9555 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,10n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,13n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on doc.pdf (2 pages, 55128 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on doc.pdf (6 pages, 95055 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

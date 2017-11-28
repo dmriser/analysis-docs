@@ -8,6 +8,7 @@ This section will briefly state facts about the CLAS detector as well as CEBAF. 
 %    (c) description of target used 
 %    (d) description of detector systems 
 %    (e) electron identification 
+%    (f) hadron identification 
 % ------------------------------------
 
 % general description of jlab, cebaf, and the experiment
@@ -27,14 +28,24 @@ The CLAS detector is composed of several sub-systems that are used together to i
 \end{itemize}
 
 % electron identification 
+\subsection{Electron Identification}
 Electrons are selected for analysis from the candidate tracks by using a cuts based classification algorithm.  The dominant background for electron candidates are negative pions.  All negative tracks are considered as possible electrons.  These candidate electrons are first subject to geometric cuts.  
 \\
 As particles traverse the EC they create an electromagnetic shower, which is not confined within the detector when the particles pass close to the extremes of the detector strips.  This mechanism leads to an underestimation of particle energy in the reconstruction phase, for that reason these tracks are discarded.  Similarly, the detector efficiency is poorly understood at the extreme edges of the drift chambers, and tracks through these areas are also rejected.  
 \\
-The fractional energy deposition with respect to the particle momentum is quite constant as a function of momentum for electrons, but inversely depends on the momentum of negative pions.  This property is exploited by placing a momentum dependent cut on the ratio $E_{dep}(p)/p$ for all negative candidate tracks.  The ratio $E_{dep}/p$ is calculated in 60 momentum bins from 0.5 to 2.5 GeV/c.  The electron signal is then fit with a Gaussian function, and the mean $\mu_i$ and standard deviations $\sigma_i$ are recorded for each momentum bin (above labeled i).  These distributions are then fit with a 3rd order polynomial and can be used to create decision boundaries for rejecting tracks from the candidate electron sample.  
+The fractional energy deposition with respect to the particle momentum $E_{dep}/p$ is nearly constant as a function of momentum for electrons, but inversely depends on the momentum of negative pions.  This property is exploited by placing a momentum dependent cut on the ratio $E_{dep}(p)/p$ for all negative candidate tracks.  The ratio $E_{dep}/p$ is calculated in 60 momentum bins from 0.5 to 2.5 GeV/c (this should be double-checked).  The electron signal is then fit with a Gaussian function, and the mean $\mu_i$ and standard deviations $\sigma_i$ are recorded for each momentum bin (above labeled i).  These distributions are then fit with a 3rd order polynomial ($\mu(p) = ap^3 + bp^2 + cp + d$) and can be used to create decision boundaries for rejecting tracks from the candidate electron sample.  
 \\
-
-        
+Unlike electrons, negative pions do not deposit a significant amount of energy in the inner EC, and we apply a minimum energy deposition cut to electron candidates ($E_{inner} > 50 MeV$).  
+\\
+The Cherenkov Counter (CC) is filled with $C_{4}F_{10}$ gas (perfluorobutane), which has a pion threshold of $p_{\pi} \approx 2.5 GeV/c$.  Historically, a cut was placed on the minimum number of photo-electrons detected for a track.  This cut achieves the desired separation between electrions and negative pions, but is known to discard good electron candidates as well.  For this analysis, we use a matching condition developed by Osipenko.  Using the closest detector (drift chamber region 3) the track polar angle is calculated at the CC.  This angle is compared with the CC detection segment for each of the 18 segments which span the polar angle up to $\theta = 45^{\circ}$.  The procedure described above for fitting the momentum dependence of the ratio $E_{dep}/p$ is applied to the segment dependence of the angle $\theta_{CC}$.  
+\\
+\subsection{Pion Identification}
+Identification of charged hadrons in CLAS depends on time-of-flight information.  First, candidate tracks are subject to a geometric cut in the region 1 drift chambers, for the same reasons described above.  Next, the vertex position of the pion is compared to the vertex position of the electron.  For a process with a detached vertex (pion comes from a decaying mother particle) this type of cut would discard events of interest, but for this process we expect the pion to originate from the point of collision.  With this motivation, the vertex difference $\Delta v_{z}$ is required to be on the order of the target ($|\Delta v_{z}| < 5 \; cm$).  Finally, we use a timing cut suggested by Dan Carman (reference to some paper where he uses it?) that does not discard any tracks which have passed the first two cuts.  Using momentum information from the drift chambers, the value for $\beta$ can be calculated for a particle of mass $m$ as shown below: 
+\begin{equation}
+	\beta_{calc} = \frac{p}{\sqrt{p^2 + m^2}}
+\end{equation}
+This quantity is calculated for the pion mass, kaon mass, and proton mass (in the positive case that we consider in this note).  The mass value $\beta_{calc}(m)$ which produces a value closest to $\beta_{TOF}$ is chosen as the identity of the particle.
+    
 
 
 

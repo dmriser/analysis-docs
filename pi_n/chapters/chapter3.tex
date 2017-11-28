@@ -1,2 +1,35 @@
 \section{Data Analysis}
-This section will discuss the calculation or BSA's and the fitting procedure.  
+
+This section is dedicated to the description of data analysis techniques used to identify events, correct kinematics, and calculate the beam spin asymmetries.  
+\\
+% ------------ section structure -----------------
+% (a) discuss binning and event selection, corrections 
+% (b) discuss what beam spin asymmetries are 
+% (c) describe the fitting procedure used 
+% -----------------------------------------------
+
+\subsection{Corrections, Event Selection, \& Binning}
+For this analysis $ep \rightarrow e\pi^+N$ events will be identified by directly identifying the scattered electron and positive pion, and inferring the presence of the neutron.  
+\\
+After electron and pions have been identified, their momenta are corrected using momentum corrections developed for the E1-F dataset by Marco Mirazita (check spelling of name, and put reference to note here).  Time of flight corrections are also implemented based on work by Nathan Harrison (provide reference here), including removal of non-functional TOF paddles on a run-by-run basis.  Do we need to discuss corrections here at all, is this level of detail sufficient, should we elaborate?  
+\\
+After the particle identification and kinematic correction, kinematic restrictions of $Q^{2} > 1.0$ and $W > 2.0$ are implemented to confine our measurement to the commonly accepted DIS region.  The rest of the final state can be calculated for each event simply by comparing initial and final state four-vectors.
+\begin{equation}
+	X^{\mu} = e'(k'^{\mu}) + \pi^{+}(h^{\mu}) - e(k^\mu) - p(P^\mu) 
+\end{equation}  
+
+The missing neutron can be inferred by asking that $M_X = \sqrt{X^{\mu}X_{\mu}} \approx M_{N}$, in particular it is required that $0.89 < M_{X} < 1.01$.  Events passing these criteria are considered to be the final event sample.     
+\\
+These events are binned in 15 bins (in the variable $\cos{\theta_h}$, the cosine of the polar angle between the virtual photon and the hadron) of variable size which are chosen based on the statistical content in each bin, and the acceptance in that bin.  The most extreme backward angle was not used due to a large acceptance hole in the central phi regions, shown in figure (put figure and reference).  The $\phi_h$ distributions are binned for fitting in 12 symmetric bins of width 30 degrees.  (Add figure which shows the binning drawn over the phi vs. theta histogram).      
+
+\subsection{Beam Spin Asymmetry}
+Beam spin asymmetry (BSA) measurements are a go-to tool for Nuclear/Particle Physics, and will now be briefly introduced.  The cross section difference $d\sigma_{+} - d\sigma_{-}$, where the subscript refers to the lepton (electron) helicity projection along the beamline direction, is just the part of the cross section which depends on the electron spin state.  This quantity (interesting in itself) is not usually measured.  Instead the ratio,
+\begin{equation}
+	BSA = \frac{1}{P_e} \frac{d\sigma_{+} - d\sigma_{-}}{d\sigma_{+} + d\sigma_{-}} \approx \frac{1}{P_e} \frac{N_+ - N_-}{N_+ + N_-}
+\end{equation}    
+is presented, due to convenient cancellations in detector efficiency and acceptances in each cross section term.  Where the fractional polarization of the beam is denoted as $P_e$.  As mentioned in section 2, the beam spin is flipped at a rate of 33 Hz to minimize systematic errors arising due to differences in detector position and calibration.  
+\\
+
+\subsection{Fitting Procedure}
+The distributions for $\phi_h$ are binned and fit with the function $f(\phi_h) = A\sin{\phi_h}$ using $\chi^2$ minimization.  This is accomplished using the python implementation of gradient descent provided in \texttt{scipy.optimize.minimize}, which by default uses the \texttt{BFGS} method.  Parameter errors are calculated using two methods, first the common Hessian method, and second the bootstrap replica method.  These two methods are found to be consistent, and the parameter errors estimated obtained by bootstrap methods are used throughout this report.   
+\\    

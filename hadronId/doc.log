@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 NOV 2017 19:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  30 NOV 2017 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1397,9 +1397,7 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 (/Users/davidriser/Repos/analysis-docs/hadronId/doc.aux
 (/Users/davidriser/Repos/analysis-docs/hadronId/firstLast/title.aux)
 (/Users/davidriser/Repos/analysis-docs/hadronId/firstLast/abstract.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter1.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter2.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter3.aux))
+(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter1.aux))
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1521,120 +1519,93 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-) [3
+<image/dvz.pdf, id=14, 549.05125pt x 739.76375pt>
+File: image/dvz.pdf Graphic file (type pdf)
+ <use image/dvz.pdf>
+Package pdftex.def Info: image/dvz.pdf used on input line 24.
+(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
+
+<image/fid.pdf, id=15, 549.05125pt x 739.76375pt>
+File: image/fid.pdf Graphic file (type pdf)
+ <use image/fid.pdf>
+Package pdftex.def Info: image/fid.pdf used on input line 32.
+(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
+ [3
 
 
 ]
-\openout2 = `chapters/chapter2.aux'.
-
- (/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter2.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
-
-<image/dvz.pdf, id=18, 549.05125pt x 739.76375pt>
-File: image/dvz.pdf Graphic file (type pdf)
- <use image/dvz.pdf>
-Package pdftex.def Info: image/dvz.pdf used on input line 16.
-(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
-
-<image/fid.pdf, id=19, 549.05125pt x 739.76375pt>
-File: image/fid.pdf Graphic file (type pdf)
- <use image/fid.pdf>
-Package pdftex.def Info: image/fid.pdf used on input line 23.
-(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
-) [4
-
-
- </Users/davidriser/Repos/analysis-docs/hadronId/image/dvz.pdf>] [5 </Users/dav
-idriser/Repos/analysis-docs/hadronId/image/fid.pdf>]
-\openout2 = `chapters/chapter3.aux'.
-
-
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter3.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-<image/confidence_level.pdf, id=116, 569.12625pt x 224.84pt>
+[4 </Users/davidriser/Repos/analysis-docs/hadronId/image/dvz.pdf>] [5 </Users/d
+avidriser/Repos/analysis-docs/hadronId/image/fid.pdf>]
+<image/confidence_level.pdf, id=117, 569.12625pt x 224.84pt>
 File: image/confidence_level.pdf Graphic file (type pdf)
 
 <use image/confidence_level.pdf>
-Package pdftex.def Info: image/confidence_level.pdf used on input line 33.
-(pdftex.def)             Requested size: 284.52756pt x 112.40942pt.
+Package pdftex.def Info: image/confidence_level.pdf used on input line 83.
+(pdftex.def)             Requested size: 398.33858pt x 157.37663pt.
 
-<image/beautiful_pbeta_pip.pdf, id=117, 569.12625pt x 558.085pt>
+<image/beautiful_pbeta_pip.pdf, id=118, 569.12625pt x 558.085pt>
 File: image/beautiful_pbeta_pip.pdf Graphic file (type pdf)
 
 <use image/beautiful_pbeta_pip.pdf>
-Package pdftex.def Info: image/beautiful_pbeta_pip.pdf used on input line 40.
+Package pdftex.def Info: image/beautiful_pbeta_pip.pdf used on input line 94.
 (pdftex.def)             Requested size: 284.52756pt x 279.01627pt.
 
-<image/beautiful_pbeta_kp.pdf, id=118, 569.12625pt x 558.085pt>
+<image/beautiful_pbeta_kp.pdf, id=119, 569.12625pt x 558.085pt>
 File: image/beautiful_pbeta_kp.pdf Graphic file (type pdf)
 
 <use image/beautiful_pbeta_kp.pdf>
-Package pdftex.def Info: image/beautiful_pbeta_kp.pdf used on input line 47.
+Package pdftex.def Info: image/beautiful_pbeta_kp.pdf used on input line 101.
 (pdftex.def)             Requested size: 284.52756pt x 279.01627pt.
 
-<image/beautiful_pbeta_prot.pdf, id=119, 569.12625pt x 558.085pt>
+<image/beautiful_pbeta_prot.pdf, id=120, 569.12625pt x 558.085pt>
 File: image/beautiful_pbeta_prot.pdf Graphic file (type pdf)
 
 <use image/beautiful_pbeta_prot.pdf>
-Package pdftex.def Info: image/beautiful_pbeta_prot.pdf used on input line 54.
+Package pdftex.def Info: image/beautiful_pbeta_prot.pdf used on input line 108.
+
 (pdftex.def)             Requested size: 284.52756pt x 279.01627pt.
- [6
+) [6 </Users/davidriser/Repos/analysis-docs/hadronId/image/confidence_level.pdf
+, page is rotated 90 degrees>] [7 </Users/davidriser/Repos/analysis-docs/hadron
+Id/image/beautiful_pbeta_pip.pdf, page is rotated 90 degrees> </Users/davidrise
+r/Repos/analysis-docs/hadronId/image/beautiful_pbeta_kp.pdf, page is rotated 90
+ degrees>] [8 </Users/davidriser/Repos/analysis-docs/hadronId/image/beautiful_p
+beta_prot.pdf, page is rotated 90 degrees>] [9
 
-
- </Users/davidriser/Repos/analysis-docs/hadronId/image/confidence_level.pdf, pa
-ge is rotated 90 degrees>] [7 </Users/davidriser/Repos/analysis-docs/hadronId/i
-mage/beautiful_pbeta_pip.pdf, page is rotated 90 degrees> </Users/davidriser/Re
-pos/analysis-docs/hadronId/image/beautiful_pbeta_kp.pdf, page is rotated 90 deg
-rees>]) [8 </Users/davidriser/Repos/analysis-docs/hadronId/image/beautiful_pbet
-a_prot.pdf, page is rotated 90 degrees>]
-
-LaTeX Warning: Empty bibliography on input line 14.
-
-(/Users/davidriser/Repos/analysis-docs/hadronId/doc.aux
+] (/Users/davidriser/Repos/analysis-docs/hadronId/doc.aux
 (/Users/davidriser/Repos/analysis-docs/hadronId/firstLast/title.aux)
 (/Users/davidriser/Repos/analysis-docs/hadronId/firstLast/abstract.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter1.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter2.aux)
-(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter3.aux))
+(/Users/davidriser/Repos/analysis-docs/hadronId/chapters/chapter1.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16908 strings out of 492995
- 309377 string characters out of 6132704
- 723496 words of memory out of 5000000
- 20303 multiletter control sequences out of 15000+600000
- 9322 words of font info for 34 fonts, out of 8000000 for 9000
+ 17068 strings out of 492995
+ 311954 string characters out of 6132704
+ 721189 words of memory out of 5000000
+ 20478 multiletter control sequences out of 15000+600000
+ 9976 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,10n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
-7/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on doc.pdf (8 pages, 1253219 bytes).
+ 46i,10n,45p,10382b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on doc.pdf (9 pages, 1274706 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 359 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

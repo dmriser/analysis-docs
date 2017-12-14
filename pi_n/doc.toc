@@ -4,28 +4,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Experiment}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Electron Identification}{3}
+\contentsline {subsection}{\numberline {2.1}Electron Identification}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Pion Identification}{4}
+\contentsline {subsection}{\numberline {2.2}Pion Identification}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Data Analysis}{5}
+\contentsline {subsubsection}{\numberline {2.2.1}Likelihood Method}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{5}
+\contentsline {section}{\numberline {3}Data Analysis}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Beam Spin Asymmetry}{5}
+\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{5}
+\contentsline {subsection}{\numberline {3.2}Beam Spin Asymmetry}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Systematic Errors}{6}
+\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Summary}{6}
+\contentsline {section}{\numberline {4}Systematic Errors}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Cut Variations}{6}
+\contentsline {subsection}{\numberline {4.1}Cut Variations}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Random Subset/Helicity}{6}
+\contentsline {subsection}{\numberline {4.2}Random Subset/Helicity}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Results}{7}
+\contentsline {section}{\numberline {5}Results}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Summary of Results}{7}
+\contentsline {subsection}{\numberline {5.1}Summary of Results}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Comparison to Other Measurements}{7}
+\contentsline {subsection}{\numberline {5.2}Comparison to Other Measurements}{16}

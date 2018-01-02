@@ -1,0 +1,14 @@
+\documentclass{article}
+
+\usepackage{mystyle}
+
+\begin{document}
+	\include{firstLast/title}
+	\maketitle
+	\tableofcontents
+
+	\include{chapters/chapter1}
+	
+	\printbibliography
+
+\end{document}

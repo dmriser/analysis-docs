@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 DEC 2017 12:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 DEC 2017 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **doc.latex
-(/Users/davidriser/Repos/analysis-docs/pi_n/doc.latex
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.latex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/Users/davidriser/Repos/analysis-docs/pi_n/mystyle.sty
+(/Users/dmriser/repos/analysis-docs/pi_n/mystyle.sty
 Package: mystyle 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1394,13 +1394,13 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count330
 \@quotereset=\count331
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/doc.aux
-(/Users/davidriser/Repos/analysis-docs/pi_n/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter1.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter2.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter3.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter4.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter5.aux))
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.aux
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter5.aux))
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1424,7 +1424,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'doc.bbl' found.
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/doc.bbl)
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.bbl)
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
 
@@ -1498,8 +1498,8 @@ e
 \openout2 = `firstLast/title.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/firstLast/title.tex)
-(/Users/davidriser/Repos/analysis-docs/pi_n/doc.toc)
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.tex)
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.toc)
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
@@ -1511,13 +1511,13 @@ e
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter1.tex) [2
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.tex) [2
 
 ]
 \openout2 = `chapters/chapter2.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter2.tex
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -1546,7 +1546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 [3
 
 
- </Users/davidriser/Repos/analysis-docs/pi_n/image/clas.png (PNG copy)>]
+ </Users/dmriser/repos/analysis-docs/pi_n/image/clas.png (PNG copy)>]
 <image/h_etot_p_allOthers_all.png, id=23, 798.985pt x 774.895pt>
 File: image/h_etot_p_allOthers_all.png Graphic file (type png)
 
@@ -1576,8 +1576,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--64
 
  []
 
-[4 </Users/davidriser/Repos/analysis-docs/pi_n/image/h_etot_p_allOthers_all.png
->] <image/dvz.pdf, id=29, 549.05125pt x 739.76375pt>
+[4 </Users/dmriser/repos/analysis-docs/pi_n/image/h_etot_p_allOthers_all.png>]
+<image/dvz.pdf, id=29, 549.05125pt x 739.76375pt>
 File: image/dvz.pdf Graphic file (type pdf)
  <use image/dvz.pdf>
 Package pdftex.def Info: image/dvz.pdf used on input line 71.
@@ -1595,15 +1595,15 @@ File: image/beautiful_pbeta_pip.pdf Graphic file (type pdf)
 <use image/beautiful_pbeta_pip.pdf>
 Package pdftex.def Info: image/beautiful_pbeta_pip.pdf used on input line 87.
 (pdftex.def)             Requested size: 284.52756pt x 279.01627pt.
- [5 </Users/davidriser/Repos/analysis-docs/pi_n/image/h_ec_edep_allOthers_all.p
-ng>] [6 </Users/davidriser/Repos/analysis-docs/pi_n/image/dvz.pdf>] [7 </Users/
-davidriser/Repos/analysis-docs/pi_n/image/fid.pdf>]) [8 </Users/davidriser/Repo
-s/analysis-docs/pi_n/image/beautiful_pbeta_pip.pdf, page is rotated 90 degrees>
-]
+ [5 </Users/dmriser/repos/analysis-docs/pi_n/image/h_ec_edep_allOthers_all.png>
+] [6 </Users/dmriser/repos/analysis-docs/pi_n/image/dvz.pdf>] [7 </Users/dmrise
+r/repos/analysis-docs/pi_n/image/fid.pdf>])
+[8 </Users/dmriser/repos/analysis-docs/pi_n/image/beautiful_pbeta_pip.pdf, page
+ is rotated 90 degrees>]
 \openout2 = `chapters/chapter3.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter3.tex
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.tex
 <image/x_q2.pdf, id=176, 1156.32pt x 722.7pt>
 File: image/x_q2.pdf Graphic file (type pdf)
  <use image/x_q2.pdf>
@@ -1658,24 +1658,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--70
 [9
 
 
- </Users/davidriser/Repos/analysis-docs/pi_n/image/x_q2.pdf>] [10 </Users/david
-riser/Repos/analysis-docs/pi_n/image/missing_mass.pdf> </Users/davidriser/Repos
-/analysis-docs/pi_n/image/cos_theta_h.pdf
+ </Users/dmriser/repos/analysis-docs/pi_n/image/x_q2.pdf>] [10 </Users/dmriser/
+repos/analysis-docs/pi_n/image/missing_mass.pdf> </Users/dmriser/repos/analysis
+-docs/pi_n/image/cos_theta_h.pdf
 
-pdfTeX warning: pdflatex (file /Users/davidriser/Repos/analysis-docs/pi_n/image
-/cos_theta_h.pdf): PDF inclusion: multiple pdfs with page group included in a s
-ingle page
-> </Users/davidriser/Repos/analysis-docs/pi_n/image/cos_theta_h_phi_h_binned.pd
-f
+pdfTeX warning: pdflatex (file /Users/dmriser/repos/analysis-docs/pi_n/image/co
+s_theta_h.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+> </Users/dmriser/repos/analysis-docs/pi_n/image/cos_theta_h_phi_h_binned.pdf
 
-pdfTeX warning: pdflatex (file /Users/davidriser/Repos/analysis-docs/pi_n/image
-/cos_theta_h_phi_h_binned.pdf): PDF inclusion: multiple pdfs with page group in
-cluded in a single page
->] [11 </Users/davidriser/Repos/analysis-docs/pi_n/image/default_phi_bootstraps
-.pdf>]) [12]
+pdfTeX warning: pdflatex (file /Users/dmriser/repos/analysis-docs/pi_n/image/co
+s_theta_h_phi_h_binned.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>] [11 </Users/dmriser/repos/analysis-docs/pi_n/image/default_phi_bootstraps.pd
+f>]) [12]
 \openout2 = `chapters/chapter4.aux'.
 
- (/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter4.tex
+ (/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
@@ -1706,13 +1705,13 @@ Package pdftex.def Info: image/helicity.pdf used on input line 50.
 [13
 
 
- </Users/davidriser/Repos/analysis-docs/pi_n/image/systematics.pdf>]
-[14 </Users/davidriser/Repos/analysis-docs/pi_n/image/subsets.pdf>] [15 </Users
-/davidriser/Repos/analysis-docs/pi_n/image/helicity.pdf>]
+ </Users/dmriser/repos/analysis-docs/pi_n/image/systematics.pdf>] [14 </Users/d
+mriser/repos/analysis-docs/pi_n/image/subsets.pdf>] [15 </Users/dmriser/repos/a
+nalysis-docs/pi_n/image/helicity.pdf>]
 \openout2 = `chapters/chapter5.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter5.tex
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter5.tex
 <image/default_bsa_integrated_sys.pdf, id=497, 461.45491pt x 326.34058pt>
 File: image/default_bsa_integrated_sys.pdf Graphic file (type pdf)
 
@@ -1723,24 +1722,24 @@ e 12.
 ) [16
 
 
- </Users/davidriser/Repos/analysis-docs/pi_n/image/default_bsa_integrated_sys.p
-df>] [17
+ </Users/dmriser/repos/analysis-docs/pi_n/image/default_bsa_integrated_sys.pdf>
+] [17
 
 ]
-(/Users/davidriser/Repos/analysis-docs/pi_n/doc.aux
-(/Users/davidriser/Repos/analysis-docs/pi_n/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter1.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter2.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter3.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter4.aux)
-(/Users/davidriser/Repos/analysis-docs/pi_n/chapters/chapter5.aux))
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.aux
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter5.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  17164 strings out of 492995
- 314780 string characters out of 6132704
+ 314627 string characters out of 6132704
  726828 words of memory out of 5000000
  20538 multiletter control sequences out of 15000+600000
  10030 words of font info for 37 fonts, out of 8000000 for 9000
@@ -1760,7 +1759,7 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
 /2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on doc.pdf (17 pages, 1876504 bytes).
+Output written on doc.pdf (17 pages, 1876476 bytes).
 PDF statistics:
  581 PDF objects out of 1000 (max. 8388607)
  221 compressed objects within 3 object streams

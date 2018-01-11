@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JAN 2018 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JAN 2018 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1507,34 +1507,229 @@ e
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/dmriser/repos/analysis-docs/review-2017/chapters/chapter1.tex [2
+(/Users/dmriser/repos/analysis-docs/review-2017/chapters/chapter1.tex
+<image/photos/MLHEP2017.pdf, id=13, 794.97pt x 614.295pt>
+File: image/photos/MLHEP2017.pdf Graphic file (type pdf)
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
+<use image/photos/MLHEP2017.pdf>
+Package pdftex.def Info: image/photos/MLHEP2017.pdf used on input line 24.
+(pdftex.def)             Requested size: 452.9679pt x 350.02992pt.
+ [2
 
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+] [3 </Users/dmriser/repos/analysis-docs/review-2017/image/photos/MLHEP2017.pdf
+, page is rotated 270 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
+<image/analysis/identifyKPlus.pdf, id=38, 569.12625pt x 558.085pt>
+File: image/analysis/identifyKPlus.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+<use image/analysis/identifyKPlus.pdf>
+Package pdftex.def Info: image/analysis/identifyKPlus.pdf used on input line 56
+.
+(pdftex.def)             Requested size: 452.9679pt x 444.20345pt.
+ [4] [5 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/identify
+KPlus.pdf, page is rotated 90 degrees>]
+<image/analysis/faradayCharge.png, id=88, 798.985pt x 473.77pt>
+File: image/analysis/faradayCharge.png Graphic file (type png)
 
- []
+<use image/analysis/faradayCharge.png>
+Package pdftex.def Info: image/analysis/faradayCharge.png used on input line 60
+.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
 
-[4]
+<image/analysis/faradayEntry.png, id=89, 798.985pt x 473.77pt>
+File: image/analysis/faradayEntry.png Graphic file (type png)
+
+<use image/analysis/faradayEntry.png>
+Package pdftex.def Info: image/analysis/faradayEntry.png used on input line 61.
+
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
+<image/analysis/inclusiveAcceptance.png, id=90, 798.985pt x 473.77pt>
+File: image/analysis/inclusiveAcceptance.png Graphic file (type png)
+
+<use image/analysis/inclusiveAcceptance.png>
+Package pdftex.def Info: image/analysis/inclusiveAcceptance.png used on input l
+ine 71.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
+<image/analysis/inclusiveBackground.png, id=91, 798.985pt x 473.77pt>
+File: image/analysis/inclusiveBackground.png Graphic file (type png)
+
+<use image/analysis/inclusiveBackground.png>
+Package pdftex.def Info: image/analysis/inclusiveBackground.png used on input l
+ine 72.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
+<image/analysis/inclusiveBins.png, id=92, 598.235pt x 724.7075pt>
+File: image/analysis/inclusiveBins.png Graphic file (type png)
+
+<use image/analysis/inclusiveBins.png>
+Package pdftex.def Info: image/analysis/inclusiveBins.png used on input line 73
+.
+(pdftex.def)             Requested size: 452.9679pt x 548.73767pt.
+
+<image/analysis/inclusiveDataSim.png, id=93, 798.985pt x 473.77pt>
+File: image/analysis/inclusiveDataSim.png Graphic file (type png)
+
+<use image/analysis/inclusiveDataSim.png>
+Package pdftex.def Info: image/analysis/inclusiveDataSim.png used on input line
+ 74.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
+<image/analysis/inclusivePhaseSpace.png, id=94, 548.0475pt x 774.895pt>
+File: image/analysis/inclusivePhaseSpace.png Graphic file (type png)
+
+<use image/analysis/inclusivePhaseSpace.png>
+Package pdftex.def Info: image/analysis/inclusivePhaseSpace.png used on input l
+ine 75.
+(pdftex.def)             Requested size: 452.9679pt x 640.46684pt.
+
+<image/analysis/inclusiveRadCorr.png, id=95, 798.985pt x 473.77pt>
+File: image/analysis/inclusiveRadCorr.png Graphic file (type png)
+
+<use image/analysis/inclusiveRadCorr.png>
+Package pdftex.def Info: image/analysis/inclusiveRadCorr.png used on input line
+ 76.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
+<image/analysis/inclusiveRatio.png, id=96, 798.985pt x 473.77pt>
+File: image/analysis/inclusiveRatio.png Graphic file (type png)
+
+<use image/analysis/inclusiveRatio.png>
+Package pdftex.def Info: image/analysis/inclusiveRatio.png used on input line 7
+7.
+(pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
+
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-) [5] [6]
+[6 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/faradayCharge
+.png>] [7 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/farada
+yEntry.png> </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/incl
+usiveAcceptance.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+<image/analysis/kaonBSA.png, id=104, 1341.01pt x 500.87125pt>
+File: image/analysis/kaonBSA.png Graphic file (type png)
+
+<use image/analysis/kaonBSA.png>
+Package pdftex.def Info: image/analysis/kaonBSA.png used on input line 87.
+(pdftex.def)             Requested size: 452.9679pt x 169.17813pt.
+ [8 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/inclusiveBac
+kground.png>] [9 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis
+/inclusiveBins.png>]
+<image/analysis/exclusivePiNBSA.pdf, id=113, 451.0018pt x 326.84245pt>
+File: image/analysis/exclusivePiNBSA.pdf Graphic file (type pdf)
+
+<use image/analysis/exclusivePiNBSA.pdf>
+Package pdftex.def Info: image/analysis/exclusivePiNBSA.pdf used on input line 
+92.
+(pdftex.def)             Requested size: 452.9679pt x 328.26299pt.
+
+<image/analysis/exclusivePiNMissingMass.pdf, id=114, 578.16pt x 361.35pt>
+File: image/analysis/exclusivePiNMissingMass.pdf Graphic file (type pdf)
+
+<use image/analysis/exclusivePiNMissingMass.pdf>
+Package pdftex.def Info: image/analysis/exclusivePiNMissingMass.pdf used on inp
+ut line 93.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
+
+<image/analysis/exclusivePiNPhiBootstraps.pdf, id=115, 1142.6346pt x 1129.84486
+pt>
+File: image/analysis/exclusivePiNPhiBootstraps.pdf Graphic file (type pdf)
+ <use image/analysis/exclusivePiNPhiBootstraps.pdf>
+Package pdftex.def Info: image/analysis/exclusivePiNPhiBootstraps.pdf used on i
+nput line 94.
+(pdftex.def)             Requested size: 452.9679pt x 447.89578pt.
+
+<image/analysis/exclusivePiNThetaPhi.pdf, id=116, 578.16pt x 361.35pt>
+File: image/analysis/exclusivePiNThetaPhi.pdf Graphic file (type pdf)
+
+<use image/analysis/exclusivePiNThetaPhi.pdf>
+Package pdftex.def Info: image/analysis/exclusivePiNThetaPhi.pdf used on input 
+line 95.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
+
+<image/analysis/evaBohrMulders.png, id=117, 993.7125pt x 352.31625pt>
+File: image/analysis/evaBohrMulders.png Graphic file (type png)
+
+<use image/analysis/evaBohrMulders.png>
+Package pdftex.def Info: image/analysis/evaBohrMulders.png used on input line 9
+7.
+(pdftex.def)             Requested size: 452.9679pt x 160.59981pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+[10 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/inclusiveDat
+aSim.png>] [11 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/i
+nclusivePhaseSpace.png>] [12 </Users/dmriser/repos/analysis-docs/review-2017/im
+age/analysis/inclusiveRadCorr.png> </Users/dmriser/repos/analysis-docs/review-2
+017/image/analysis/inclusiveRatio.png>] [13 </Users/dmriser/repos/analysis-docs
+/review-2017/image/analysis/kaonBSA.png> </Users/dmriser/repos/analysis-docs/re
+view-2017/image/analysis/exclusivePiNBSA.pdf>]
+<image/analysis/lambdaResonance.pdf, id=166, 569.12625pt x 560.0925pt>
+File: image/analysis/lambdaResonance.pdf Graphic file (type pdf)
+
+<use image/analysis/lambdaResonance.pdf>
+Package pdftex.def Info: image/analysis/lambdaResonance.pdf used on input line 
+109.
+(pdftex.def)             Requested size: 452.9679pt x 445.80128pt.
+ [14 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/exclusivePi
+NMissingMass.pdf>] [15 </Users/dmriser/repos/analysis-docs/review-2017/image/an
+alysis/exclusivePiNPhiBootstraps.pdf>]
+[16 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/exclusivePiN
+ThetaPhi.pdf> </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/ev
+aBohrMulders.png>] [17 </Users/dmriser/repos/analysis-docs/review-2017/image/an
+alysis/lambdaResonance.pdf, page is rotated 90 degrees>]
+<image/photos/htcc_install_1.jpg, id=354, 4047.12pt x 3035.34pt>
+File: image/photos/htcc_install_1.jpg Graphic file (type jpg)
+
+<use image/photos/htcc_install_1.jpg>
+Package pdftex.def Info: image/photos/htcc_install_1.jpg used on input line 128
+.
+(pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
+
+<image/photos/htcc_install_2.jpg, id=355, 4047.12pt x 3035.34pt>
+File: image/photos/htcc_install_2.jpg Graphic file (type jpg)
+
+<use image/photos/htcc_install_2.jpg>
+Package pdftex.def Info: image/photos/htcc_install_2.jpg used on input line 129
+.
+(pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
+
+<image/photos/htcc_install_3.jpg, id=356, 8839.0225pt x 3641.605pt>
+File: image/photos/htcc_install_3.jpg Graphic file (type jpg)
+
+<use image/photos/htcc_install_3.jpg>
+Package pdftex.def Info: image/photos/htcc_install_3.jpg used on input line 130
+.
+(pdftex.def)             Requested size: 452.9679pt x 186.59178pt.
+
+<image/photos/htcc_install_4.jpg, id=357, 4047.12pt x 3035.34pt>
+File: image/photos/htcc_install_4.jpg Graphic file (type jpg)
+
+<use image/photos/htcc_install_4.jpg>
+Package pdftex.def Info: image/photos/htcc_install_4.jpg used on input line 131
+.
+(pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
+) [18 </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htcc_install
+_1.jpg>] [19 </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htcc_
+install_2.jpg> </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htc
+c_install_3.jpg>] [20 </Users/dmriser/repos/analysis-docs/review-2017/image/pho
+tos/htcc_install_4.jpg>]
 
 LaTeX Warning: Empty bibliography on input line 12.
 
@@ -1546,13 +1741,13 @@ Package logreq Info: Writing requests to 'doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16841 strings out of 492995
- 307125 string characters out of 6132704
- 717908 words of memory out of 5000000
- 20263 multiletter control sequences out of 15000+600000
+ 16956 strings out of 492995
+ 310999 string characters out of 6132704
+ 717955 words of memory out of 5000000
+ 20352 multiletter control sequences out of 15000+600000
  9191 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,10n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -1564,10 +1759,10 @@ al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on doc.pdf (6 pages, 144955 bytes).
+Output written on doc.pdf (20 pages, 15505906 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 404 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

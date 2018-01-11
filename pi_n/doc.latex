@@ -2,6 +2,7 @@
 
 % hold styling options as well as commands
 \usepackage{mystyle}
+\doublespacing
 
 \begin{document}
 

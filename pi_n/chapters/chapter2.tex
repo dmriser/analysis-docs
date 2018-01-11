@@ -10,7 +10,7 @@
 % ------------------------------------
 
 % general description of jlab, cebaf, and the experiment
-This measurement was conducted at Jefferson Lab in Newport News, Virginia.  Jefferson Lab houses the Continuous Electron Beam Accelerator Facility (CEBAF), as well as 4 experimental halls.  The current measurement was taken with the CEBAF Large Acceptance Spectrometer (CLAS) in Hall-B.  \\
+This measurement was conducted at Jefferson Lab in Newport News, Virginia.  Jefferson Lab houses the Continuous Electron Beam Accelerator Facility (CEBAF), as well as 4 experimental halls.  The data used for this study was taken with the CEBAF Large Acceptance Spectrometer (CLAS) in Hall-B during 6 GeV operation.  \\
 
 \begin{figure}
   \label{fig:clas}
@@ -21,7 +21,7 @@ This measurement was conducted at Jefferson Lab in Newport News, Virginia.  Jeff
 \end{figure}
 
 % description of the beam properties (helicity and energy)
-The CEBAF injector provides a few hundered (get the number and put it here) MeV electrons, where a high voltage Pockels cell is used to switch the polarization of the electrons at a rate of 33 Hz.  Electrons are then accelerated via several passes through 2 parallel linear accelerators, before being delivered to Hall-B.  For this experimental run (E1-f) the beam energy was 5.5 GeV.  The beam polarization was monitored with a Moller polarimeter, and the average value was found to be $\lambda_e= (75 \pm 3) \%$.  The electron beam was incident on a liquid hydrogen target, 5 centimeters in length.  The vast majority of electrons don't interact with the target, and deposit their charge on the Faraday Cup.  \\
+%The CEBAF injector provides a few hundered (get the number and put it here) MeV electrons, where a high voltage Pockels cell is used to switch the polarization of the electrons at a rate of 33 Hz.  Electrons are then accelerated via several passes through 2 parallel linear accelerators, before being delivered to Hall-B.  
 
 % discussion of the detector systems and clas 
 The CLAS detector is composed of several sub-systems that are used together to infer the four momenta of particles that scatter out of the target.  A central magnet provides a toroidal magnetic field used to separate charged particles and measure momentum, and divides the spectrometer azimuthally (in the x-y plane if z is taken to be the direction of the beam) into 6 identically constructed sectors.  Each sector contains 4 major sub-systems: 
@@ -32,6 +32,8 @@ The CLAS detector is composed of several sub-systems that are used together to i
 	\item Electromagnetic Calorimeter - Records the energy deposited by charged and neutral particles, resposible for tracking photons/neutrons.
 	\item Time of Flight Scintillators - A high resolution timing system that is used to calculate the velocity of particles.  The time of flight system is the primary means used to separate different hadrons.  
 \end{itemize}
+
+For the E1-F experimental run the beam energy was 5.5 GeV.  The beam polarization was monitored with a Moller polarimeter, and the average value was found to be $\lambda_e = (75 \pm 3) \%$.  The electron beam was incident on a liquid hydrogen target, 5 centimeters in length. \\
 
 % electron identification 
 \subsection{Electron Identification}
@@ -48,7 +50,7 @@ Electrons are selected for analysis from the candidate tracks by using a cuts ba
 
 As particles traverse the EC they create an electromagnetic shower, which is not confined within the detector when the particles pass close to the extremes of the detector strips.  This mechanism leads to an underestimation of particle energy in the reconstruction phase, for that reason these tracks are discarded.  Similarly, the detector efficiency is poorly understood at the extreme edges of the drift chambers, and tracks through these areas are also rejected.  \\
 
-The fractional energy deposition with respect to the particle momentum $E_{dep}/p$ is nearly constant as a function of momentum for electrons, but inversely depends on the momentum of negative pions.  This property is exploited by placing a momentum dependent cut on the ratio $E_{dep}(p)/p$ for all negative candidate tracks.  The ratio $E_{dep}/p$ is calculated in 60 momentum bins from 0.5 to 2.5 GeV/c (this should be double-checked).  The electron signal is then fit with a Gaussian function, and the mean $\mu_i$ and standard deviations $\sigma_i$ are recorded for each momentum bin (above labeled i).  These distributions are then fit with a 3rd order polynomial ($\mu(p) = ap^3 + bp^2 + cp + d$) and can be used to create decision boundaries for rejecting tracks from the candidate electron sample.  
+The fractional energy deposition with respect to the particle momentum $E_{dep}/p$ is nearly constant as a function of momentum for electrons, but inversely depends on the momentum for negative pions.  This property is exploited by placing a momentum dependent cut on the ratio $E_{dep}(p)/p$ for all negative candidate tracks.  The ratio $E_{dep}/p$ is calculated in 60 momentum bins from 0.5 to 2.5 GeV/c (this should be double-checked).  The electron signal is then fit with a Gaussian function, and the mean $\mu_i$ and standard deviations $\sigma_i$ are recorded for each momentum bin (above labeled i).  These distributions are then fit with a 3rd order polynomial ($\mu(p) = ap^3 + bp^2 + cp + d$) and can be used to create decision boundaries for rejecting tracks from the candidate electron sample.  
 \\
 
 \begin{figure}
@@ -61,7 +63,7 @@ The fractional energy deposition with respect to the particle momentum $E_{dep}/
 
 Unlike electrons, negative pions do not deposit a significant amount of energy in the inner EC, and we apply a minimum energy deposition cut to electron candidates ($E_{inner} > 50 MeV$).  The Cherenkov Counter (CC) is filled with $C_{4}F_{10}$ gas (perfluorobutane), which has a pion threshold of $p_{\pi} \approx 2.5 GeV/c$.  Historically, a cut was placed on the minimum number of photo-electrons detected for a track.  This cut achieves the desired separation between electrions and negative pions, but is known to discard good electron candidates as well.  For this analysis, we use a matching condition developed by Osipenko.  Using the closest detector (drift chamber region 3) the track polar angle is calculated at the CC.  This angle is compared with the CC detection segment for each of the 18 segments which span the polar angle up to $\theta = 45^{\circ}$.  The procedure described above for fitting the momentum dependence of the ratio $E_{dep}/p$ is applied to the segment dependence of the angle $\theta_{CC}$.  
 \\
-\subsection{Pion Identification}
+\subsection{Positive Pion Identification}
 
 After electron identification, all positive tracks are subject to two constraints.  First, events which pass close to the torus coils are removed by cutting on the hit positions reported by the region 1 drift chambers, this is shown in figure \ref{fig:fid}.  Such events are often poorly reconstructed or have poorly understood acceptances and are discarded from analyses.  Then, the distance between the electron vertex and the positive track vertex is computed ($\delta v_{z} = v_{z}^{e} - v_{z}^{+}$).  This distance is constrained to be within the length of the target (5 cm) see figure \ref{fig:dvz}.  
 

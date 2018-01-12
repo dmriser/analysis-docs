@@ -2,30 +2,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Experiment}{3}
+\contentsline {subsection}{\numberline {1.1}Formalism}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Electron Identification}{4}
+\contentsline {section}{\numberline {2}Experiment}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Positive Pion Identification}{6}
+\contentsline {subsection}{\numberline {2.1}Electron Identification}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Likelihood Method}{8}
+\contentsline {subsection}{\numberline {2.2}Positive Pion Identification}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Data Analysis}{10}
+\contentsline {subsubsection}{\numberline {2.2.1}Likelihood Method}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{10}
+\contentsline {section}{\numberline {3}Data Analysis}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Beam Spin Asymmetry}{12}
+\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{12}
+\contentsline {subsection}{\numberline {3.2}Beam Spin Asymmetry}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Systematic Errors}{14}
+\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Cut Variations}{14}
+\contentsline {section}{\numberline {4}Systematic Errors}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Random Subset/Helicity}{15}
+\contentsline {subsection}{\numberline {4.1}Cut Variations}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Results}{17}
+\contentsline {subsection}{\numberline {4.2}Random Subset/Helicity}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Summary of Results}{17}
+\contentsline {section}{\numberline {5}Results}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Comparison to Other Measurements}{17}
+\contentsline {subsection}{\numberline {5.1}Summary of Results}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Comparison to Other Measurements}{18}

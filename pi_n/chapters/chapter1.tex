@@ -1,1 +1,38 @@
 \section{Introduction}
+
+% ---------------------------------
+%  This section discusses history
+%  and the basic cross section. 
+%  Then specifically comments on 
+%  GPD and TDA models for the 
+%  structure function \sigma_{LT'}.
+% ---------------------------------
+
+For more than 50 years QCD has been under experimental investigation.  The simple fact that bound states of colored quarks and gluons have to have no net color (and therefore can't be observed as free particles) has pushed physicists to find ways to interrogate and study these fundemental degrees of freedom in QCD.  The most abundant and stable bound states (here on earth) of QCD are protons and neutrons, and have been the laboratory for study of quarks and gluons. \\
+
+The first studies to probe quarks and gluons within nucleons were performed at SLAC, when electron scattering was used to produce QED interactions between the charged electrons and the charged quarks.  The experiments measured electron scattering cross sections in terms of a variable $x$ known as the momentum fraction.  The momentum fraction is simply the fraction of the total nucleon momentum carried by the struck quark in the scattering event.  Results of these experiments remain some of the strongest evidence for the belief that QCD is the correct theory of the strong interaction. More recently, theoretical advancements have led to formulations of inclusive and exclusive reaction cross sections in terms of new parametrizations that describe not only the longitudinal momentum fraction, but also the momentum space and spatial distribution of quarks in the plane transverse to the hard momentum transfer (the same direction in which x is measured).  \\
+
+
+\subsection{Formalism}
+In this note, the exclusive reaction $e p \rightarrow e^\prime \pi^+ N$ is considered.  The cross section for this process can be written down in a model independent way by using Lorentz invariance and conservation laws.  The structure functions can then be calculated by modeling quark-gluon dynamics using different formulations.  In electron scattering experiments it is customary to define the momentum transfer $q$ (where $q = l - l'$ and $Q^{2} = -q^{2}$). 
+
+\begin{equation}
+\begin{split}
+  \frac{d^4 \sigma}{dE^\prime d\Omega d\phi_h dt} = \Gamma \Big[ \sigma_T + \varepsilon_L \sigma_L + \sqrt{2\varepsilon_L(1+\varepsilon)} \sigma_{LT} \cos\phi_h + \\
+    \varepsilon \sigma_{TT} \cos(2\phi_h) + \lambda \sqrt{2\varepsilon_L(1-\varepsilon)} \sigma_{LT^\prime} \sin \phi_h \Big]
+\end{split}
+\end{equation}
+
+Where the photon flux $\Gamma$ is given by, 
+
+\begin{equation}
+  \Gamma = \frac{\alpha_{em}}{2\pi^2} \frac{E_e^\prime}{E_e} \frac{W^2-m_p^2}{2 m_p Q^2} \frac{1}{1-\varepsilon}
+\end{equation}
+
+and $\varepsilon = (1+2\frac{\nu^2}{Q^2}\tan^2(\theta^2/2))^{-1}$ is the virtual photon polarization factor.  One can then define the beam spin asymmetry as follows.
+
+\begin{equation}
+  BSA = \frac{d\sigma^+ - d\sigma^-}{d\sigma^+ + d\sigma^-} = \frac{\alpha \sin \phi_h}{1 + \beta \cos \phi_h + \gamma \cos(2\phi_h)}
+\end{equation}
+
+

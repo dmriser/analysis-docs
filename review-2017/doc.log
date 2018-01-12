@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 JAN 2018 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  11 JAN 2018 08:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1603,7 +1603,31 @@ Package pdftex.def Info: image/analysis/inclusiveRatio.png used on input line 7
 7.
 (pdftex.def)             Requested size: 452.9679pt x 268.59865pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+<image/analysis/inclusiveCrossSection1.png, id=97, 798.985pt x 774.895pt>
+File: image/analysis/inclusiveCrossSection1.png Graphic file (type png)
+
+<use image/analysis/inclusiveCrossSection1.png>
+Package pdftex.def Info: image/analysis/inclusiveCrossSection1.png used on inpu
+t line 79.
+(pdftex.def)             Requested size: 452.9679pt x 439.31813pt.
+
+<image/analysis/inclusiveCrossSection2.png, id=98, 798.985pt x 774.895pt>
+File: image/analysis/inclusiveCrossSection2.png Graphic file (type png)
+
+<use image/analysis/inclusiveCrossSection2.png>
+Package pdftex.def Info: image/analysis/inclusiveCrossSection2.png used on inpu
+t line 80.
+(pdftex.def)             Requested size: 452.9679pt x 439.31813pt.
+
+<image/analysis/inclusiveCrossSection3.png, id=99, 798.985pt x 774.895pt>
+File: image/analysis/inclusiveCrossSection3.png Graphic file (type png)
+
+<use image/analysis/inclusiveCrossSection3.png>
+Package pdftex.def Info: image/analysis/inclusiveCrossSection3.png used on inpu
+t line 81.
+(pdftex.def)             Requested size: 452.9679pt x 439.31813pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
@@ -1611,65 +1635,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 .png>] [7 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/farada
 yEntry.png> </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/incl
 usiveAcceptance.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-<image/analysis/kaonBSA.png, id=104, 1341.01pt x 500.87125pt>
+<image/analysis/kaonBSA.png, id=107, 1341.01pt x 500.87125pt>
 File: image/analysis/kaonBSA.png Graphic file (type png)
 
 <use image/analysis/kaonBSA.png>
-Package pdftex.def Info: image/analysis/kaonBSA.png used on input line 87.
+Package pdftex.def Info: image/analysis/kaonBSA.png used on input line 91.
 (pdftex.def)             Requested size: 452.9679pt x 169.17813pt.
  [8 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/inclusiveBac
 kground.png>] [9 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis
 /inclusiveBins.png>]
-<image/analysis/exclusivePiNBSA.pdf, id=113, 451.0018pt x 326.84245pt>
+<image/analysis/exclusivePiNBSA.pdf, id=116, 451.0018pt x 326.84245pt>
 File: image/analysis/exclusivePiNBSA.pdf Graphic file (type pdf)
 
 <use image/analysis/exclusivePiNBSA.pdf>
 Package pdftex.def Info: image/analysis/exclusivePiNBSA.pdf used on input line 
-92.
+96.
 (pdftex.def)             Requested size: 452.9679pt x 328.26299pt.
 
-<image/analysis/exclusivePiNMissingMass.pdf, id=114, 578.16pt x 361.35pt>
+<image/analysis/exclusivePiNMissingMass.pdf, id=117, 578.16pt x 361.35pt>
 File: image/analysis/exclusivePiNMissingMass.pdf Graphic file (type pdf)
 
 <use image/analysis/exclusivePiNMissingMass.pdf>
 Package pdftex.def Info: image/analysis/exclusivePiNMissingMass.pdf used on inp
-ut line 93.
+ut line 97.
 (pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/analysis/exclusivePiNPhiBootstraps.pdf, id=115, 1142.6346pt x 1129.84486
+<image/analysis/exclusivePiNPhiBootstraps.pdf, id=118, 1142.6346pt x 1129.84486
 pt>
 File: image/analysis/exclusivePiNPhiBootstraps.pdf Graphic file (type pdf)
  <use image/analysis/exclusivePiNPhiBootstraps.pdf>
 Package pdftex.def Info: image/analysis/exclusivePiNPhiBootstraps.pdf used on i
-nput line 94.
+nput line 98.
 (pdftex.def)             Requested size: 452.9679pt x 447.89578pt.
 
-<image/analysis/exclusivePiNThetaPhi.pdf, id=116, 578.16pt x 361.35pt>
+<image/analysis/exclusivePiNThetaPhi.pdf, id=119, 578.16pt x 361.35pt>
 File: image/analysis/exclusivePiNThetaPhi.pdf Graphic file (type pdf)
 
 <use image/analysis/exclusivePiNThetaPhi.pdf>
 Package pdftex.def Info: image/analysis/exclusivePiNThetaPhi.pdf used on input 
-line 95.
+line 99.
 (pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/analysis/evaBohrMulders.png, id=117, 993.7125pt x 352.31625pt>
+<image/analysis/evaBohrMulders.png, id=120, 993.7125pt x 352.31625pt>
 File: image/analysis/evaBohrMulders.png Graphic file (type png)
 
 <use image/analysis/evaBohrMulders.png>
-Package pdftex.def Info: image/analysis/evaBohrMulders.png used on input line 9
-7.
+Package pdftex.def Info: image/analysis/evaBohrMulders.png used on input line 1
+01.
 (pdftex.def)             Requested size: 452.9679pt x 160.59981pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
@@ -1678,58 +1702,66 @@ aSim.png>] [11 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/i
 nclusivePhaseSpace.png>] [12 </Users/dmriser/repos/analysis-docs/review-2017/im
 age/analysis/inclusiveRadCorr.png> </Users/dmriser/repos/analysis-docs/review-2
 017/image/analysis/inclusiveRatio.png>] [13 </Users/dmriser/repos/analysis-docs
-/review-2017/image/analysis/kaonBSA.png> </Users/dmriser/repos/analysis-docs/re
-view-2017/image/analysis/exclusivePiNBSA.pdf>]
-<image/analysis/lambdaResonance.pdf, id=166, 569.12625pt x 560.0925pt>
+/review-2017/image/analysis/inclusiveCrossSection1.png>] [14 </Users/dmriser/re
+pos/analysis-docs/review-2017/image/analysis/inclusiveCrossSection2.png>]
+[15 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/inclusiveCro
+ssSection3.png> </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/
+kaonBSA.png>] [16 </Users/dmriser/repos/analysis-docs/review-2017/image/analysi
+s/exclusivePiNBSA.pdf> </Users/dmriser/repos/analysis-docs/review-2017/image/an
+alysis/exclusivePiNMissingMass.pdf
+
+pdfTeX warning: pdflatex (file /Users/dmriser/repos/analysis-docs/review-2017/i
+mage/analysis/exclusivePiNMissingMass.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
+>] [17 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/exclusive
+PiNPhiBootstraps.pdf>] [18 </Users/dmriser/repos/analysis-docs/review-2017/imag
+e/analysis/exclusivePiNThetaPhi.pdf> </Users/dmriser/repos/analysis-docs/review
+-2017/image/analysis/evaBohrMulders.png>]
+<image/analysis/lambdaResonance.pdf, id=315, 569.12625pt x 560.0925pt>
 File: image/analysis/lambdaResonance.pdf Graphic file (type pdf)
 
 <use image/analysis/lambdaResonance.pdf>
 Package pdftex.def Info: image/analysis/lambdaResonance.pdf used on input line 
-109.
+113.
 (pdftex.def)             Requested size: 452.9679pt x 445.80128pt.
- [14 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/exclusivePi
-NMissingMass.pdf>] [15 </Users/dmriser/repos/analysis-docs/review-2017/image/an
-alysis/exclusivePiNPhiBootstraps.pdf>]
-[16 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/exclusivePiN
-ThetaPhi.pdf> </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/ev
-aBohrMulders.png>] [17 </Users/dmriser/repos/analysis-docs/review-2017/image/an
-alysis/lambdaResonance.pdf, page is rotated 90 degrees>]
-<image/photos/htcc_install_1.jpg, id=354, 4047.12pt x 3035.34pt>
+
+<image/photos/htcc_install_1.jpg, id=316, 4047.12pt x 3035.34pt>
 File: image/photos/htcc_install_1.jpg Graphic file (type jpg)
 
 <use image/photos/htcc_install_1.jpg>
-Package pdftex.def Info: image/photos/htcc_install_1.jpg used on input line 128
+Package pdftex.def Info: image/photos/htcc_install_1.jpg used on input line 132
 .
 (pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
 
-<image/photos/htcc_install_2.jpg, id=355, 4047.12pt x 3035.34pt>
+<image/photos/htcc_install_2.jpg, id=317, 4047.12pt x 3035.34pt>
 File: image/photos/htcc_install_2.jpg Graphic file (type jpg)
 
 <use image/photos/htcc_install_2.jpg>
-Package pdftex.def Info: image/photos/htcc_install_2.jpg used on input line 129
+Package pdftex.def Info: image/photos/htcc_install_2.jpg used on input line 133
 .
 (pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
 
-<image/photos/htcc_install_3.jpg, id=356, 8839.0225pt x 3641.605pt>
+<image/photos/htcc_install_3.jpg, id=318, 8839.0225pt x 3641.605pt>
 File: image/photos/htcc_install_3.jpg Graphic file (type jpg)
 
 <use image/photos/htcc_install_3.jpg>
-Package pdftex.def Info: image/photos/htcc_install_3.jpg used on input line 130
+Package pdftex.def Info: image/photos/htcc_install_3.jpg used on input line 134
 .
 (pdftex.def)             Requested size: 452.9679pt x 186.59178pt.
 
-<image/photos/htcc_install_4.jpg, id=357, 4047.12pt x 3035.34pt>
+<image/photos/htcc_install_4.jpg, id=319, 4047.12pt x 3035.34pt>
 File: image/photos/htcc_install_4.jpg Graphic file (type jpg)
 
 <use image/photos/htcc_install_4.jpg>
-Package pdftex.def Info: image/photos/htcc_install_4.jpg used on input line 131
+Package pdftex.def Info: image/photos/htcc_install_4.jpg used on input line 135
 .
 (pdftex.def)             Requested size: 452.9679pt x 339.72418pt.
-) [18 </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htcc_install
-_1.jpg>] [19 </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htcc_
-install_2.jpg> </Users/dmriser/repos/analysis-docs/review-2017/image/photos/htc
-c_install_3.jpg>] [20 </Users/dmriser/repos/analysis-docs/review-2017/image/pho
-tos/htcc_install_4.jpg>]
+) [19] [20 </Users/dmriser/repos/analysis-docs/review-2017/image/analysis/lambd
+aResonance.pdf, page is rotated 90 degrees>] [21 </Users/dmriser/repos/analysis
+-docs/review-2017/image/photos/htcc_install_1.jpg>] [22 </Users/dmriser/repos/a
+nalysis-docs/review-2017/image/photos/htcc_install_2.jpg> </Users/dmriser/repos
+/analysis-docs/review-2017/image/photos/htcc_install_3.jpg>] [23 </Users/dmrise
+r/repos/analysis-docs/review-2017/image/photos/htcc_install_4.jpg>]
 
 LaTeX Warning: Empty bibliography on input line 12.
 
@@ -1741,10 +1773,10 @@ Package logreq Info: Writing requests to 'doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16956 strings out of 492995
- 310999 string characters out of 6132704
- 717955 words of memory out of 5000000
- 20352 multiletter control sequences out of 15000+600000
+ 16971 strings out of 492995
+ 311626 string characters out of 6132704
+ 718955 words of memory out of 5000000
+ 20364 multiletter control sequences out of 15000+600000
  9191 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,10n,45p,10382b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1759,10 +1791,10 @@ al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on doc.pdf (20 pages, 15505906 bytes).
+Output written on doc.pdf (23 pages, 15553493 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
+ 416 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

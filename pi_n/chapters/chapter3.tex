@@ -22,28 +22,28 @@ These events are binned in 15 bins (in the variable $\cos{\theta_h}$, the cosine
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=10cm]{image/x_q2.pdf}
+    \includegraphics[width=\columnwidth]{image/x_q2.pdf}
     \caption{Kinematic distribution after event selection.}
   \end{center}
 \end{figure}
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=10cm]{image/missing_mass.pdf}
+    \includegraphics[width=\columnwidth]{image/missing_mass.pdf}
     \caption{Missing mass cut used to select neutrons.}
   \end{center}
 \end{figure}
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=10cm]{image/significance.pdf}
+    \includegraphics[width=\columnwidth]{image/significance.pdf}
     \caption{Significance level $\alpha$ before/after selection of final event sample.}
   \end{center}
 \end{figure}
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=10cm]{image/cos_theta_h.pdf}
+    \includegraphics[width=\columnwidth]{image/cos_theta_h.pdf}
     \caption{Distribution of $cos \theta_h$ for positive pions before and after missing mass and pion siginificance cuts.}
   \end{center}
 \end{figure}
@@ -51,7 +51,7 @@ These events are binned in 15 bins (in the variable $\cos{\theta_h}$, the cosine
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=10cm]{image/cos_theta_h_phi_h_binned.pdf}
+    \includegraphics[width=\columnwidth]{image/cos_theta_h_phi_h_binned.pdf}
     \caption{Distribution of events in the center of mass of the $\gamma^* p^+$ system.  The extreme backward angles are removed for lack of data at central values of $\phi_h$.}
   \end{center}
 \end{figure}
@@ -66,12 +66,66 @@ is presented, due to convenient cancellations in detector efficiency and accepta
 
 \begin{figure}
   \begin{center}
-    \includegraphics[width=14cm]{image/default_phi_bootstraps.pdf}
+    \includegraphics[width=\columnwidth]{image/default_phi_bootstraps.pdf}
     \caption{The BSA shown as a function of $\phi_h$ for different bins of $\cos \theta_h$.  Overlaid are the 200 bootstraps performed for each $\cos \theta_h$-bin.}
   \end{center}
 \end{figure}
 
 \subsection{Fitting Procedure}
-The distributions for $\phi_h$ are binned and fit with the function $f(\phi_h) = A\sin{\phi_h}$ using $\chi^2$ minimization.  This is accomplished using the python implementation of gradient descent provided in \texttt{scipy.optimize.minimize}, which by default uses the \texttt{BFGS} method.  Parameter errors are calculated using two methods, first the common Hessian method, and second the bootstrap replica method.  These two methods are found to be consistent, and the parameter errors estimated obtained by bootstrap methods are used throughout this report.   
+The distributions for $\phi_h$ are binned and fit with the function $f(\phi_h) = A\sin{\phi_h}$ using $\chi^2$ minimization.  This is accomplished using the python implementation of gradient descent provided in \texttt{scipy.optimize.minimize}, which by default uses the \texttt{BFGS} method.  Parameter errors are calculated using two methods, first the common Hessian method, and second the bootstrap replica method.  These two methods are found to be consistent, and the parameter errors obtained by bootstrap methods are used throughout this report.   
 \\    
+
+\subsection{Systematic Errors}
+
+% ------------ section structure -------------
+% (a) summary of the systematic errors and their relative size 
+% (b) description of different sources of error (fits, data inconsistany, cut choices)
+% -------------------------------------------
+
+The error on our measured values is considered in two categories.  First, statistical errors are calculated for the beam spin asymmetry measurement for every phi-bin.  During the fitting procedure, these statistical errors are mapped into errors on the fit parameters.  This first class of errors we consider as the statistcal error on the result.  Second, the authors consider all other possible sources of error which do not depend on statistical effects.  Those effects which have been identified are: \\
+
+
+\begin{center}
+\begin{tabular}{ | c || c |  }
+ \hline
+ Source & Relative Error\\
+ \hline
+ Cut: z-vertex                   & 0.0019\\
+ Cut: \texttt{EC edep}           & 0.0027\\
+ Cut: sampling fraction          & 0.0010\\
+ Cut: $\theta_{CC}$ matching     & 0.0022\\
+ Cut: pion significance $\alpha$ & 0.0049\\
+ Beam Polarization               & 0.03  \\
+ \hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Cut Variations}
+In some cases, the direct variation of analyses parameters is the only way to try and understand the dependence of the result on the input parameters.  Ideally, the analysis result shouldn't vary outside of the errors which arise from statical fluctuations.    
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=\columnwidth]{image/systematics.pdf}
+    \caption{The largest shift resulting from all variations of each analysis cut parameter.  Shown also is the statistical error.  All resulting cut variations remained withtin statistical error.}
+  \end{center}
+\end{figure}
+
+\subsubsection{Random Subset/Helicity}
+
+Two additional studies are performed which involve randomization of the input data in some way.  In the first study, the helicity of each event is assigned a random value of $\pm 1$.  This randomization destroys the correlation between beam spin and the $\phi_h$ distributions.  Therefore, one expects to find zero asymmetries as a result of this randomization.  In the second study, the full analysis is run on a subset of 80\% of the events in the full dataset.  This study is designed to identify if there is internal inconsistancy in the dataset.
+\\
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=\columnwidth]{image/subsets.pdf}
+    \caption{Results for each bin of $\cos(\theta_h)$ calculated on 200 random subsets of 80\% of the entire dataset.  In the absence of internal inconsistency in the data, these results should be gaussianly distributed around the nominal result obtained with the entire dataset, which is shown with statistical error in red.}
+  \end{center}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=\columnwidth]{image/helicity.pdf}
+    \caption{Shown above are the results for randomizing the helicty for every event, and repeating the analysis 200 times.  This randomization destroys any correlation between the helicity states and the cross section, meaning that these results are expected to be zero (with larger fluctuation in lower statistics bins).}
+  \end{center}
+\end{figure}
 

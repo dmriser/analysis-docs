@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JAN 2018 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 JAN 2018 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **doc.latex
-(/Users/davidriser/repos/analysis-docs/pi_n/doc.latex
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.latex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/Users/davidriser/repos/analysis-docs/pi_n/mystyle.sty
+(/Users/dmriser/repos/analysis-docs/pi_n/mystyle.sty
 Package: mystyle 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1397,13 +1397,12 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count330
 \@quotereset=\count331
 
-(/Users/davidriser/repos/analysis-docs/pi_n/doc.aux
-(/Users/davidriser/repos/analysis-docs/pi_n/firstLast/title.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter4.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter5.aux))
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.aux
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.aux))
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1427,7 +1426,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'doc.bbl' found.
 
-(/Users/davidriser/repos/analysis-docs/pi_n/doc.bbl)
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.bbl)
 Package biblatex Info: Reference section=0 on input line 7.
 Package biblatex Info: Reference segment=0 on input line 7.
 
@@ -1501,8 +1500,8 @@ e
 \openout2 = `firstLast/title.aux'.
 
 
-(/Users/davidriser/repos/analysis-docs/pi_n/firstLast/title.tex)
-(/Users/davidriser/repos/analysis-docs/pi_n/doc.toc)
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.tex)
+(/Users/dmriser/repos/analysis-docs/pi_n/doc.toc)
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
@@ -1514,7 +1513,7 @@ e
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter1.tex
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
@@ -1529,7 +1528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 ]) [3]
 \openout2 = `chapters/chapter2.aux'.
 
- (/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter2.tex
+ (/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -1549,7 +1548,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [4
 
 
- </Users/davidriser/repos/analysis-docs/pi_n/image/clas.png (PNG copy)>]
+ </Users/dmriser/repos/analysis-docs/pi_n/image/clas.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
@@ -1565,7 +1564,7 @@ File: image/h_etot_p_allOthers_all.png Graphic file (type png)
 <use image/h_etot_p_allOthers_all.png>
 Package pdftex.def Info: image/h_etot_p_allOthers_all.png used on input line 46
 .
-(pdftex.def)             Requested size: 284.52756pt x 275.94688pt.
+(pdftex.def)             Requested size: 452.9679pt x 439.31813pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
@@ -1576,108 +1575,107 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-[5 </Users/davidriser/repos/analysis-docs/pi_n/image/h_etot_p_allOthers_all.png
->] <image/h_ec_edep_allOthers_all.png, id=34, 798.985pt x 774.895pt>
+<image/h_ec_edep_allOthers_all.png, id=31, 798.985pt x 774.895pt>
 File: image/h_ec_edep_allOthers_all.png Graphic file (type png)
 
 <use image/h_ec_edep_allOthers_all.png>
 Package pdftex.def Info: image/h_ec_edep_allOthers_all.png used on input line 5
 9.
-(pdftex.def)             Requested size: 284.52756pt x 275.94688pt.
+(pdftex.def)             Requested size: 452.9679pt x 439.31813pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
-[6 </Users/davidriser/repos/analysis-docs/pi_n/image/h_ec_edep_allOthers_all.pn
-g>] <image/dvz.pdf, id=38, 549.05125pt x 739.76375pt>
+[5] [6 </Users/dmriser/repos/analysis-docs/pi_n/image/h_etot_p_allOthers_all.pn
+g>] [7 </Users/dmriser/repos/analysis-docs/pi_n/image/h_ec_edep_allOthers_all.p
+ng>] <image/dvz.pdf, id=42, 549.05125pt x 739.76375pt>
 File: image/dvz.pdf Graphic file (type pdf)
  <use image/dvz.pdf>
 Package pdftex.def Info: image/dvz.pdf used on input line 73.
-(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
+(pdftex.def)             Requested size: 452.9679pt x 610.3239pt.
 
-<image/fid.pdf, id=39, 549.05125pt x 739.76375pt>
+<image/fid.pdf, id=43, 549.05125pt x 739.76375pt>
 File: image/fid.pdf Graphic file (type pdf)
  <use image/fid.pdf>
 Package pdftex.def Info: image/fid.pdf used on input line 81.
-(pdftex.def)             Requested size: 284.52756pt x 383.36996pt.
+(pdftex.def)             Requested size: 452.9679pt x 610.3239pt.
 
-<image/beautiful_pbeta_pip.pdf, id=40, 569.12625pt x 558.085pt>
+<image/beautiful_pbeta_pip.pdf, id=44, 569.12625pt x 558.085pt>
 File: image/beautiful_pbeta_pip.pdf Graphic file (type pdf)
 
 <use image/beautiful_pbeta_pip.pdf>
 Package pdftex.def Info: image/beautiful_pbeta_pip.pdf used on input line 89.
-(pdftex.def)             Requested size: 284.52756pt x 279.01627pt.
- [7 </Users/davidriser/repos/analysis-docs/pi_n/image/dvz.pdf>] [8 </Users/davi
-driser/repos/analysis-docs/pi_n/image/fid.pdf>] [9 </Users/davidriser/repos/ana
-lysis-docs/pi_n/image/beautiful_pbeta_pip.pdf, page is rotated 90 degrees>]) [1
-0]
+(pdftex.def)             Requested size: 452.9679pt x 444.20345pt.
+ [8] [9 </Users/dmriser/repos/analysis-docs/pi_n/image/dvz.pdf>] [10 </Users/dm
+riser/repos/analysis-docs/pi_n/image/fid.pdf>] [11 </Users/dmriser/repos/analys
+is-docs/pi_n/image/beautiful_pbeta_pip.pdf, page is rotated 90 degrees>]) [12]
 \openout2 = `chapters/chapter3.aux'.
 
 
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter3.tex
-<image/x_q2.pdf, id=184, 578.16pt x 361.35pt>
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.tex
+<image/x_q2.pdf, id=190, 578.16pt x 361.35pt>
 File: image/x_q2.pdf Graphic file (type pdf)
  <use image/x_q2.pdf>
 Package pdftex.def Info: image/x_q2.pdf used on input line 25.
-(pdftex.def)             Requested size: 284.52756pt x 177.82945pt.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/missing_mass.pdf, id=185, 578.16pt x 361.35pt>
+<image/missing_mass.pdf, id=191, 578.16pt x 361.35pt>
 File: image/missing_mass.pdf Graphic file (type pdf)
 
 <use image/missing_mass.pdf>
 Package pdftex.def Info: image/missing_mass.pdf used on input line 32.
-(pdftex.def)             Requested size: 284.52756pt x 177.82945pt.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/significance.pdf, id=186, 578.16pt x 361.35pt>
+<image/significance.pdf, id=192, 578.16pt x 361.35pt>
 File: image/significance.pdf Graphic file (type pdf)
 
 <use image/significance.pdf>
 Package pdftex.def Info: image/significance.pdf used on input line 39.
-(pdftex.def)             Requested size: 284.52756pt x 177.82945pt.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/cos_theta_h.pdf, id=187, 578.16pt x 361.35pt>
+<image/cos_theta_h.pdf, id=193, 578.16pt x 361.35pt>
 File: image/cos_theta_h.pdf Graphic file (type pdf)
 
 <use image/cos_theta_h.pdf>
 Package pdftex.def Info: image/cos_theta_h.pdf used on input line 46.
-(pdftex.def)             Requested size: 284.52756pt x 177.82945pt.
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-<image/cos_theta_h_phi_h_binned.pdf, id=188, 578.16pt x 361.35pt>
+<image/cos_theta_h_phi_h_binned.pdf, id=194, 578.16pt x 361.35pt>
 File: image/cos_theta_h_phi_h_binned.pdf Graphic file (type pdf)
 
 <use image/cos_theta_h_phi_h_binned.pdf>
 Package pdftex.def Info: image/cos_theta_h_phi_h_binned.pdf used on input line 
 54.
-(pdftex.def)             Requested size: 284.52756pt x 177.82945pt.
- [11
+(pdftex.def)             Requested size: 452.9679pt x 283.10349pt.
 
-
- </Users/davidriser/repos/analysis-docs/pi_n/image/x_q2.pdf>] [12 </Users/david
-riser/repos/analysis-docs/pi_n/image/missing_mass.pdf> </Users/davidriser/repos
-/analysis-docs/pi_n/image/significance.pdf
-
-pdfTeX warning: pdflatex (file /Users/davidriser/repos/analysis-docs/pi_n/image
-/significance.pdf): PDF inclusion: multiple pdfs with page group included in a 
-single page
-> </Users/davidriser/repos/analysis-docs/pi_n/image/cos_theta_h.pdf
-
-pdfTeX warning: pdflatex (file /Users/davidriser/repos/analysis-docs/pi_n/image
-/cos_theta_h.pdf): PDF inclusion: multiple pdfs with page group included in a s
-ingle page
->]
 Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
-<image/default_phi_bootstraps.pdf, id=336, 1142.6346pt x 1129.84486pt>
+<image/default_phi_bootstraps.pdf, id=195, 1142.6346pt x 1129.84486pt>
 File: image/default_phi_bootstraps.pdf Graphic file (type pdf)
 
 <use image/default_phi_bootstraps.pdf>
 Package pdftex.def Info: image/default_phi_bootstraps.pdf used on input line 69
 .
-(pdftex.def)             Requested size: 398.33858pt x 393.86555pt.
+(pdftex.def)             Requested size: 452.9679pt x 447.89578pt.
+ [13
 
+
+] [14 </Users/dmriser/repos/analysis-docs/pi_n/image/x_q2.pdf> </Users/dmriser/
+repos/analysis-docs/pi_n/image/missing_mass.pdf
+
+pdfTeX warning: pdflatex (file /Users/dmriser/repos/analysis-docs/pi_n/image/mi
+ssing_mass.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] [15 </Users/dmriser/repos/analysis-docs/pi_n/image/significance.pdf> </Users
+/dmriser/repos/analysis-docs/pi_n/image/cos_theta_h.pdf
+
+pdfTeX warning: pdflatex (file /Users/dmriser/repos/analysis-docs/pi_n/image/co
+s_theta_h.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+>]
 Overfull \hbox (38.67061pt too wide) in paragraph at lines 75--77
 \OT1/cmr/m/n/10 This is ac-com-plished us-ing the python im-ple-men-ta-tion of 
 gra-di-ent de-scent pro-vided in \OT1/cmtt/m/n/10 scipy.optimize.minimize\OT1/c
@@ -1689,80 +1687,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
-) [13 </Users/davidriser/repos/analysis-docs/pi_n/image/cos_theta_h_phi_h_binne
-d.pdf>] [14 </Users/davidriser/repos/analysis-docs/pi_n/image/default_phi_boots
-traps.pdf>]
-\openout2 = `chapters/chapter4.aux'.
 
- (/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter4.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-<image/systematics.pdf, id=440, 867.24pt x 578.16pt>
+[16 </Users/dmriser/repos/analysis-docs/pi_n/image/cos_theta_h_phi_h_binned.pdf
+>] [17 </Users/dmriser/repos/analysis-docs/pi_n/image/default_phi_bootstraps.pd
+f>] <image/systematics.pdf, id=449, 867.24pt x 578.16pt>
 File: image/systematics.pdf Graphic file (type pdf)
 
 <use image/systematics.pdf>
-Package pdftex.def Info: image/systematics.pdf used on input line 31.
-(pdftex.def)             Requested size: 341.43306pt x 227.62523pt.
+Package pdftex.def Info: image/systematics.pdf used on input line 108.
+(pdftex.def)             Requested size: 452.9679pt x 301.97705pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
-[15
-
-
- </Users/davidriser/repos/analysis-docs/pi_n/image/systematics.pdf>]
-<image/subsets.pdf, id=498, 1156.32pt x 1156.32pt>
+[18 </Users/dmriser/repos/analysis-docs/pi_n/image/systematics.pdf>]
+<image/subsets.pdf, id=507, 1156.32pt x 1156.32pt>
 File: image/subsets.pdf Graphic file (type pdf)
  <use image/subsets.pdf>
-Package pdftex.def Info: image/subsets.pdf used on input line 43.
+Package pdftex.def Info: image/subsets.pdf used on input line 120.
 (pdftex.def)             Requested size: 452.9679pt x 452.95676pt.
 
-<image/helicity.pdf, id=499, 1156.32pt x 1156.32pt>
+<image/helicity.pdf, id=508, 1156.32pt x 1156.32pt>
 File: image/helicity.pdf Graphic file (type pdf)
  <use image/helicity.pdf>
-Package pdftex.def Info: image/helicity.pdf used on input line 50.
+Package pdftex.def Info: image/helicity.pdf used on input line 127.
 (pdftex.def)             Requested size: 452.9679pt x 452.95676pt.
 )
-[16 </Users/davidriser/repos/analysis-docs/pi_n/image/subsets.pdf>] [17 </Users
-/davidriser/repos/analysis-docs/pi_n/image/helicity.pdf>]
-\openout2 = `chapters/chapter5.aux'.
+[19] [20 </Users/dmriser/repos/analysis-docs/pi_n/image/subsets.pdf>] [21 </Use
+rs/dmriser/repos/analysis-docs/pi_n/image/helicity.pdf>]
+\openout2 = `chapters/chapter4.aux'.
 
 
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter5.tex
-<image/default_bsa_integrated_sys.pdf, id=561, 461.45491pt x 326.34058pt>
-File: image/default_bsa_integrated_sys.pdf Graphic file (type pdf)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.tex
+<image/bsa_integrated.pdf, id=574, 722.7pt x 433.62pt>
+File: image/bsa_integrated.pdf Graphic file (type pdf)
 
-<use image/default_bsa_integrated_sys.pdf>
-Package pdftex.def Info: image/default_bsa_integrated_sys.pdf used on input lin
-e 12.
-(pdftex.def)             Requested size: 341.43306pt x 241.46832pt.
-) [18
+<use image/bsa_integrated.pdf>
+Package pdftex.def Info: image/bsa_integrated.pdf used on input line 12.
+(pdftex.def)             Requested size: 452.9679pt x 271.77934pt.
+) [22
 
 
- </Users/davidriser/repos/analysis-docs/pi_n/image/default_bsa_integrated_sys.p
-df>] [19
+ </Users/dmriser/repos/analysis-docs/pi_n/image/bsa_integrated.pdf>] [23
 
-]
-(/Users/davidriser/repos/analysis-docs/pi_n/doc.aux
-(/Users/davidriser/repos/analysis-docs/pi_n/firstLast/title.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter4.aux)
-(/Users/davidriser/repos/analysis-docs/pi_n/chapters/chapter5.aux))
+] (/Users/dmriser/repos/analysis-docs/pi_n/doc.aux
+(/Users/dmriser/repos/analysis-docs/pi_n/firstLast/title.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter1.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter2.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter3.aux)
+(/Users/dmriser/repos/analysis-docs/pi_n/chapters/chapter4.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17203 strings out of 492995
- 315516 string characters out of 6132704
- 725104 words of memory out of 5000000
- 20572 multiletter control sequences out of 15000+600000
- 10030 words of font info for 37 fonts, out of 8000000 for 9000
+ 17199 strings out of 492995
+ 315011 string characters out of 6132704
+ 724968 words of memory out of 5000000
+ 20574 multiletter control sequences out of 15000+600000
+ 10376 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,19n,45p,10417b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -1780,11 +1768,12 @@ ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
 /2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on doc.pdf (19 pages, 1560225 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on doc.pdf (23 pages, 1570954 bytes).
 PDF statistics:
- 652 PDF objects out of 1000 (max. 8388607)
- 246 compressed objects within 3 object streams
+ 664 PDF objects out of 1000 (max. 8388607)
+ 257 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

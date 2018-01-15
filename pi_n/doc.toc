@@ -8,26 +8,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Electron Identification}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Positive Pion Identification}{7}
+\contentsline {subsection}{\numberline {2.2}Positive Pion Identification}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Likelihood Method}{9}
+\contentsline {subsubsection}{\numberline {2.2.1}Likelihood Method}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Data Analysis}{11}
+\contentsline {section}{\numberline {3}Data Analysis}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{11}
+\contentsline {subsection}{\numberline {3.1}Corrections, Event Selection, \& Binning}{13}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Beam Spin Asymmetry}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{13}
+\contentsline {subsection}{\numberline {3.3}Fitting Procedure}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Systematic Errors}{15}
+\contentsline {subsection}{\numberline {3.4}Systematic Errors}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Cut Variations}{15}
+\contentsline {subsubsection}{\numberline {3.4.1}Cut Variations}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Random Subset/Helicity}{16}
+\contentsline {subsubsection}{\numberline {3.4.2}Random Subset/Helicity}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Results}{18}
+\contentsline {section}{\numberline {4}Results}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Summary of Results}{18}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Comparison to Other Measurements}{18}
+\contentsline {subsection}{\numberline {4.1}Comparison to Other Measurements}{22}

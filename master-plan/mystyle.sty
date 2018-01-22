@@ -1,0 +1,33 @@
+\ProvidesPackage{mystyle}
+
+\usepackage[backend=biber]{biblatex}
+\addbibresource{firstLast/Bibliography.bib}
+
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\usepackage[a4paper, margin=1.0in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\lhead{}
+\chead{}
+\rhead{Master Plan 2018}
+
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{}
+
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{physics}
+
+\newcommand{\easyFigure}[2]{
+  \begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{#1}
+    \caption{#2}
+  \end{figure}
+}
+
+%\renewcommand{\familydefault}{\sfdefault}

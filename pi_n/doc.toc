@@ -22,10 +22,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}Systematic Errors}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}Cut Variations}{18}
+\contentsline {subsubsection}{\numberline {3.4.1}Cut Variations}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2}Random Subset/Helicity}{18}
+\contentsline {subsubsection}{\numberline {3.4.2}Random Subset/Helicity}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Results}{22}
+\contentsline {section}{\numberline {4}Results}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Comparison to Other Measurements}{22}
+\contentsline {subsection}{\numberline {4.1}Comparison to Other Measurements}{21}

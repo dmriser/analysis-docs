@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 NOV 2017 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 MAR 2018 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **doc.latex
-(/Users/davidriser/Repos/analysis-docs/notes/doc.latex
+(/Users/davidriser/repos/analysis-docs/notes/doc.latex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/Users/davidriser/Repos/analysis-docs/notes/mystyle.sty
+(/Users/davidriser/repos/analysis-docs/notes/mystyle.sty
 Package: mystyle 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1394,9 +1394,9 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count330
 \@quotereset=\count331
 
-(/Users/davidriser/Repos/analysis-docs/notes/doc.aux
-(/Users/davidriser/Repos/analysis-docs/notes/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/notes/chapters/chapter1.aux))
+(/Users/davidriser/repos/analysis-docs/notes/doc.aux
+(/Users/davidriser/repos/analysis-docs/notes/firstLast/title.aux)
+(/Users/davidriser/repos/analysis-docs/notes/chapters/chapter1.aux))
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1420,7 +1420,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'doc.bbl' found.
 
-(/Users/davidriser/Repos/analysis-docs/notes/doc.bbl)
+(/Users/davidriser/repos/analysis-docs/notes/doc.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 
@@ -1494,8 +1494,8 @@ e
 \openout2 = `firstLast/title.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/notes/firstLast/title.tex)
-(/Users/davidriser/Repos/analysis-docs/notes/doc.toc)
+(/Users/davidriser/repos/analysis-docs/notes/firstLast/title.tex)
+(/Users/davidriser/repos/analysis-docs/notes/doc.toc)
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
@@ -1507,7 +1507,7 @@ e
 \openout2 = `chapters/chapter1.aux'.
 
 
-(/Users/davidriser/Repos/analysis-docs/notes/chapters/chapter1.tex
+(/Users/davidriser/repos/analysis-docs/notes/chapters/chapter1.tex
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1527,9 +1527,9 @@ or  <return>  to continue without it.
 
 LaTeX Warning: Empty bibliography on input line 12.
 
-(/Users/davidriser/Repos/analysis-docs/notes/doc.aux
-(/Users/davidriser/Repos/analysis-docs/notes/firstLast/title.aux)
-(/Users/davidriser/Repos/analysis-docs/notes/chapters/chapter1.aux))
+(/Users/davidriser/repos/analysis-docs/notes/doc.aux
+(/Users/davidriser/repos/analysis-docs/notes/firstLast/title.aux)
+(/Users/davidriser/repos/analysis-docs/notes/chapters/chapter1.aux))
 Package logreq Info: Writing requests to 'doc.run.xml'.
 \openout1 = `doc.run.xml'.
 
@@ -1551,7 +1551,7 @@ sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
 al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on doc.pdf (2 pages, 89851 bytes).
+Output written on doc.pdf (2 pages, 89848 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
